@@ -1,4 +1,4 @@
-<h2> algo-study </h2>
+<h2> algo-study - junmkang </h2>
 
 <h3> BOJ </h3>
 
