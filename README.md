@@ -11,4 +11,4 @@
 | DAY | SUBJECT |
 | :--: | :--: |
 | 2021/08/13(금) | [백준](https://www.acmicpc.net/step) 1-4단계 |
-| 2021/08/17(화) | |
+| 2021/08/17(화) | [백준](https://www.acmicpc.net/step) 5-7단계 |
