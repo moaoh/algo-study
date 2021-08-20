@@ -5,7 +5,6 @@ for x in l:
 	if x in s:
 		count += s.count(x)
 		s = s.replace(x, ",")
-s = s.split(',')
-for x in s:
-	count += len(x)
+s = s.replace(',', "")
+count += len(s)
 print(count)
