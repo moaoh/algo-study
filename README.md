@@ -13,4 +13,4 @@
 | 2021/08/13(금) | [백준](https://www.acmicpc.net/step) 1-4단계 |
 | 2021/08/17(화) | [백준](https://www.acmicpc.net/step) 5-7단계 |
 | 2021/08/20(금) | [팰린드롬수](https://www.acmicpc.net/problem/1259), [이상한 곱셈](https://www.acmicpc.net/problem/1225), [막대기](https://www.acmicpc.net/problem/1094)|
-| 2021/08/26(목) | |
+| 2021/08/24(화) | |
