@@ -14,3 +14,4 @@
 | 2021/08/17(화) | [백준](https://www.acmicpc.net/step) 5-7단계 |
 | 2021/08/20(금) | [팰린드롬수](https://www.acmicpc.net/problem/1259), [이상한 곱셈](https://www.acmicpc.net/problem/1225), [막대기](https://www.acmicpc.net/problem/1094)|
 | 2021/08/24(화) | [치킨 쿠폰](https://www.acmicpc.net/problem/1673), [알바생 강호](https://www.acmicpc.net/problem/1758), [에라토스테네스의 체](https://www.acmicpc.net/problem/2960)|
+| 2021/08/27(금) | |
