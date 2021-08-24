@@ -9,7 +9,7 @@ def	main():
 		for j in range(ord('a'), ord('z') + 1):
 			n = i.count(chr(j))
 			if chr(j) * n not in i:
-				diff = 1
+				dif = 1
 		if dif == 0:
 			count += 1
 	print(count)
