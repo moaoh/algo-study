@@ -6,6 +6,7 @@ def	main():
 	i = 1
 	while i < n:
 		num = lst[i]
+		print(lst)
 		for key, value in enumerate(lst[0:i]):
 			if value > num:
 				del lst[i]
